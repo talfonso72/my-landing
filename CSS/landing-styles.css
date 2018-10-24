@@ -1,0 +1,32 @@
+.my-nav { background-color: #193678;
+border-bottom: none;
+margin-bottom: 0px;
+}
+.navbar-default
+.navbar-right li:hover{
+  background-color:yellow
+}
+
+
+
+#logo {
+  margin: 5px;
+  width: 30px
+
+}
+.ih-text  {
+  float: none;
+}
+
+.my-jumbo {
+  background-image: url('../Miami.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center center;
+
+
+}
+.my-jumbo h1 {
+  color:white;
+
+}
